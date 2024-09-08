@@ -9,7 +9,7 @@ I'm a passionate developer who loves to explore new frameworks and libraries, es
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF Description" width="480" height="360"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GIF Description" width="380" height="260"/>
 
 </td>
 </tr>
