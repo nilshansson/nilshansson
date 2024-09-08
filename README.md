@@ -1,4 +1,3 @@
-
 # Hello There! 👋 I'm Nils, a Fullstack JavaScript/TypeScript Developer
 
 <table>
@@ -10,7 +9,7 @@ I'm a passionate developer who loves to explore new frameworks and libraries, es
 </td>
 <td>
 
-![GIF Description](https://media.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif)
+<img src="https://media.giphy.com/media/1u01IRKm3cKUH4GU1U/giphy.gif" alt="GIF Description" width="300"/>
 
 </td>
 </tr>
@@ -19,6 +18,4 @@ I'm a passionate developer who loves to explore new frameworks and libraries, es
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,react,nextjs,css,tailwind,figma,docker,githubactions,jest,npm,postgres,postman,vercel)](https://skillicons.dev)
 
-## Codewars Badge
 ![Codewars](https://www.codewars.com/users/Nilshanssonmeng/badges/large)
-
